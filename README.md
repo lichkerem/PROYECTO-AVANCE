@@ -1,2 +1,3 @@
 # PROYECTO-AVANCE
-Daniel Soto
+INTEGRANTE:
+Daniel Alexander Soto Sahuanay
